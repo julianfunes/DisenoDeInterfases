@@ -1,23 +1,23 @@
 body {
     margin:0;
     padding:0;  
-    background-color: steelblue;
+    background-color: rgb(255, 255, 255);
     font-family: Arial, sans-serif;
-    color: white;       
     text-align: center;
+    color: rgb(79, 143, 143);
     font-size: 20px;
 }
 nav a {
-    color: rgb(219, 218, 218);
-    text-decoration: aqualine;
+    color: blue
+    text-decoration: underline;
     padding: 10px 20px;
     border-radius: 5px;
-    background-color:rgb(199, 71, 21)
+    background-color: rgb(255, 255, 255);
     margin: 5px;
 }
 
 header {
-    background-color: rgb(14, 0, 212);
+    background-color: rgb(46, 32, 250);
     padding: 20px;
     text-align: center;
 }
